@@ -1,5 +1,5 @@
 /* Your responsive CSS styles go here */
-@media (max-width: 500px) {
+@media (max-width:500px) {
     .section-one, .section-two {
       width: 100%;
       font-size: 40px;
