@@ -10,7 +10,9 @@
   }
   #chapter1 { text-align: center }
 
-  h1 { color: purple; } 
+  p {
+    background-color: yellow;
+  }   
   
   h2 {
     color: #00ff00;
