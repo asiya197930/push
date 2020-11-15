@@ -58,7 +58,7 @@ Work & submit in a branch named **css**
 * [ *For grading* ] Your submitted code must meet the following: 
   - `responsive.css` should be injected into `index.html` as an external stylesheet
   - `index.html` should contain the viewport meta tag
-  - `responsice.css` should define the following media queries:
+  - `responsive.css` should define the following media queries:
     - for devices with less than 500px of width
     - for devices with more than 1000px of width
     - for devices within any specified range of width
