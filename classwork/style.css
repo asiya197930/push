@@ -1,4 +1,20 @@
 /* Your external CSS styles go here */
-<div id = “chapter1”>I am blue</div><br>
-<h2 class = “redText”>I am red</h2>
-<h1>I am purple</h1>
+.section-one, .section-two {
+    text-align: center;
+    font-size: 32px;
+    padding: 10px;
+    margin: 10px;
+    height: 400px;
+    line-height: 200px;
+    display: inline-block;
+    width: 45%;
+  }
+  
+  .section-one {
+    background-color: yellow;
+  }
+  
+  .section-two {
+    background-color: red;
+  }
+  
