@@ -1,11 +1,11 @@
 /* Your responsive CSS styles go here */
-@media (max-width:500px) {
+@media (max-width: 500px) {
     .section-one, .section-two {
       width: 100%;
       font-size: 40px;
     }
   }
-  @media (min-width:1000px) {
+  @media (min-width: 1000px) {
     .section-one, .section-two {
       width: 100%;
       font-size: 40px;
@@ -21,4 +21,4 @@
       background-color: rgb(0, 2, 128);
     }
   }  
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
